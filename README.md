@@ -1,6 +1,6 @@
 # 🧾 Java Payroll Management System
 
-🔗 **View on GitHub:** [github.com/Softeraman/PayrollSystemOOPS](https://github.com/Softeraman/PayrollSystemOOPS.git)
+
 
 This Java project demonstrates a simple Payroll System that effectively implements core **Object-Oriented Programming (OOP)** principles.
 
@@ -32,14 +32,13 @@ This Java project demonstrates a simple Payroll System that effectively implemen
 
 ## 📸 Screenshots
 
-### 🔹 GUI Layout (Add Employee Form):
-![Form Layout](screenshot_gui_layout.png)
-
+### 🔹 Form for ADD Employee section (Add Employee Form):
+![Employee List](screenshot_employee_list.png)
 ### 🔹 Input Validation (Missing Name/ID Alert):
 ![Validation Alert](screenshot_name_id.png)
 
 ### 🔹 Displaying Employee List (After Adding):
-![Employee List](screenshot_employee_list.png)
+![Form Layout](screenshot_gui_layout.png)
 
 ---
 
@@ -48,3 +47,4 @@ This Java project demonstrates a simple Payroll System that effectively implemen
 **Aman Sharma**  
 
 📅 Last Updated: August 06, 2025
+
