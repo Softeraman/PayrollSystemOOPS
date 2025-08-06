@@ -30,9 +30,21 @@ This Java project demonstrates a simple Payroll System that effectively implemen
 ---
 
 
+## 📸 Screenshots
+
+### 🔹 GUI Layout (Add Employee Form):
+![Form Layout](screenshot_gui_layout.png)
+
+### 🔹 Input Validation (Missing Name/ID Alert):
+![Validation Alert](screenshot_name_id.png)
+
+### 🔹 Displaying Employee List (After Adding):
+![Employee List](screenshot_employee_list.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Aman Sharma**  
-
 
 📅 Last Updated: August 06, 2025
